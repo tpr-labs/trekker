@@ -1,0 +1,112 @@
+[
+  {
+    "id": "trek_001",
+    "name": "Emerald Valley Trail",
+    "title": "The Green Paradise of the North",
+    "short_description": "A lush green valley trek perfect for beginners, featuring scenic river crossings.",
+    "full_description": "Emerald Valley is a breathtaking trail that winds through dense pine forests and opens up into vast meadows of alpine flowers. Ideally visited in post-monsoon seasons, the air is crisp and the visibility is high. The trek includes two river crossings and a final ascent to the Sunset Point which offers a 360-degree view of the surrounding peaks.",
+    "rating": 4.8,
+    "difficulty_level": "Easy",
+    "best_time_to_visit": "September - November",
+    "location": "Manali, HP",
+    "latitude": 32.2396,
+    "longitude": 77.1887,
+    "google_maps_link": "https://goo.gl/maps/sample",
+    "address": "Base Camp 4, Solang Valley Road, Manali",
+    "tags": ["valley", "river", "beginner-friendly", "scenic"],
+    "images": [
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "distance_from_city": 15,
+    "estimated_duration": 5
+  },
+  {
+    "id": "trek_002",
+    "name": "Cloud's End Peak",
+    "title": "Above the Clouds",
+    "short_description": "A challenging climb to the highest point in the district with snowy terrain.",
+    "full_description": "Not for the faint-hearted, Cloud's End Peak requires significant endurance. The trail starts with a steep rocky ascent and transitions into a snowy ridge walk near the summit. The reward is an unparalleled view of the Himalayan range. Oxygen levels can dip slightly at the top, so acclimation is recommended.",
+    "rating": 4.9,
+    "difficulty_level": "Hard",
+    "best_time_to_visit": "April - June",
+    "location": "Uttarkashi, UK",
+    "latitude": 30.7268,
+    "longitude": 79.0669,
+    "google_maps_link": "https://goo.gl/maps/sample",
+    "address": "Forest Checkpost 9, Gangotri Highway",
+    "tags": ["snow", "summit", "challenging", "mountain"],
+    "images": [
+      "https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1519681393798-38e366ef4c3b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "distance_from_city": 45,
+    "estimated_duration": 12
+  },
+  {
+    "id": "trek_003",
+    "name": "Whispering Caves",
+    "title": "History in the Rocks",
+    "short_description": "A moderate trek leading to ancient limestone caves hidden in the jungle.",
+    "full_description": "This trail combines nature with archeology. The path cuts through a deciduous forest rich in birdlife. The destination is a network of limestone caves containing ancient carvings. It is a humid trek, so carrying plenty of water is essential. Flashlights are required for exploring the caves.",
+    "rating": 4.2,
+    "difficulty_level": "Moderate",
+    "best_time_to_visit": "October - March",
+    "location": "Wayanad, KL",
+    "latitude": 11.6854,
+    "longitude": 76.1320,
+    "google_maps_link": "https://goo.gl/maps/sample",
+    "address": "Edakkal Base, Ambalavayal",
+    "tags": ["caves", "forest", "history", "wildlife"],
+    "images": [
+      "https://images.unsplash.com/photo-1499566727020-ef2a7597433a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80"
+    ],
+    "distance_from_city": 25,
+    "estimated_duration": 4
+  },
+  {
+    "id": "trek_004",
+    "name": "Sunset Ridge",
+    "title": "The Golden Hour Walk",
+    "short_description": "Famous for its spectacular sunset views over the western ocean.",
+    "full_description": "A relatively flat trek along the ridge of the coastal mountains. The wind speeds can be high, but the view of the sun dipping into the ocean is unmatched. It is a favorite spot for photographers and picnic lovers. The trail is well-marked and safe for families.",
+    "rating": 4.5,
+    "difficulty_level": "Easy",
+    "best_time_to_visit": "November - February",
+    "location": "Gokarna, KA",
+    "latitude": 14.5479,
+    "longitude": 74.3188,
+    "google_maps_link": "https://goo.gl/maps/sample",
+    "address": "Kudle Beach Road Start Point",
+    "tags": ["ocean", "sunset", "photography", "family"],
+    "images": [
+      "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "distance_from_city": 8,
+    "estimated_duration": 3
+  },
+  {
+    "id": "trek_005",
+    "name": "Canyon Deep",
+    "title": "Into the Earth",
+    "short_description": "A reverse trek descending into a river canyon with red rock formations.",
+    "full_description": "Unlike most treks, this one starts at the top and descends into the canyon floor. The red rock formations are stunning against the blue sky. At the bottom runs a cool river perfect for a mid-trek dip. The climb back up is strenuous and requires good cardio fitness.",
+    "rating": 4.7,
+    "difficulty_level": "Moderate",
+    "best_time_to_visit": "August - December",
+    "location": "Gandikota, AP",
+    "latitude": 14.8150,
+    "longitude": 78.2863,
+    "google_maps_link": "https://goo.gl/maps/sample",
+    "address": "Fort Entrance, Gandikota Village",
+    "tags": ["canyon", "river", "geology", "swimming"],
+    "images": [
+      "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1682687220742-aba13b6e50ba?auto=format&fit=crop&w=800&q=80"
+    ],
+    "distance_from_city": 80,
+    "estimated_duration": 6
+  }
+]
